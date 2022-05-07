@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UpendraVishwanathYS
-- 👀 I’m interested in Applied Mathematics, Signal Processing, classical and modern computer vision.
+- 👀 I’m interested in Applied Mathematics, Signal Processing, Classical and Modern Computer Vision.
 - 🌱 I’m currently learning Information Theory, ML&DL
 
 <!---

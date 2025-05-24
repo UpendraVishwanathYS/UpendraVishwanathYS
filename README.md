@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UpendraVishwanathYS
 - 👀 I’m interested in Applied Mathematics, Signal Processing, Classical and Modern Computer Vision.
-- 🌱 I’m currently learning Information Theory, Machine Learning, Deep Learning
+- 🌱 I’m currently learning Information Theory, and Deep Learning
 
 <!---
 UpendraVishwanathYS/UpendraVishwanathYS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

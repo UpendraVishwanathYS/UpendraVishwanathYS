@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UpendraVishwanathYS
-- 👀 I’m interested in Applied Mathematics, Digital Signal Processing, Classical and Modern Computer Vision, Speech Processing and NLP. 
+- 👀 I’m interested in Applied Mathematics, Digital Signal Processing, Classical & Modern Computer Vision, Speech Processing and NLP. 
 - 🌱 I’m exploring Deep Learning and Information Theory.
 
 <!---
